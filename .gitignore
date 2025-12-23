@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# MacOS
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Data files - DO NOT IGNORE bug_fix_data.json!
+# We want to track the actual data
+
+# Temporary files
+*.log
+*.tmp

@@ -1,0 +1,29 @@
+{
+  "attempts": [
+    {
+      "attempt_id": "20251223_142013",
+      "timestamp": "2025-12-23T14:20:13.376066",
+      "successful": true,
+      "description": "repeating",
+      "patterns": {
+        "all_same_digits": false,
+        "repeating_pairs": false,
+        "hour_minute_match": false,
+        "mirror_hour_minute": false,
+        "sequential_ascending": false,
+        "sequential_descending": false,
+        "sum_is_prime": true,
+        "palindrome": false,
+        "all_even": false,
+        "all_odd": false,
+        "alternating_even_odd": false,
+        "repeating_pattern": false
+      },
+      "is_interesting": true,
+      "pattern_names": [
+        "sum_is_prime"
+      ]
+    }
+  ],
+  "last_updated": "2025-12-23T14:20:13.376229"
+}
