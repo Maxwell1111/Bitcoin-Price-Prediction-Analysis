@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-12-23T23:25:18.495817",
+  "sources": {
+    "fear_greed": {
+      "value": 24,
+      "classification": "Extreme Fear",
+      "normalized_score": -0.52
+    },
+    "reddit": {
+      "weighted_sentiment": 0.0371773071672158,
+      "positive_pct": 35.714285714285715,
+      "negative_pct": 25.0,
+      "total_posts": 28,
+      "top_posts": [
+        {
+          "compound": 0.9997,
+          "weight": 10.967938361628152,
+          "title": "Bitcoin Newcomers FAQ - Please read!"
+        },
+        {
+          "compound": -0.3612,
+          "weight": 16.18606441165432,
+          "title": "Cats getting intrest in bitcoin \ud83d\udca5"
+        },
+        {
+          "compound": 0.0,
+          "weight": 9.989680927522498,
+          "title": "BTC since the 10/10"
+        },
+        {
+          "compound": 0.8559,
+          "weight": 7.93399758440549,
+          "title": "Btc lover"
+        },
+        {
+          "compound": 0.8372,
+          "weight": 19.97863653384428,
+          "title": "Bitcoin Consolidates After ~$94.6K Rejection Key Levels to W"
+        }
+      ]
+    }
+  },
+  "current_price": 86959.28125,
+  "7d_price_change": 1.751380196780368,
+  "combined_sentiment": -0.29712907713311365,
+  "signal": {
+    "signal": "BUY",
+    "score": -0.29712907713311365,
+    "explanation": "Fear in market - potential entry point"
+  }
+}
