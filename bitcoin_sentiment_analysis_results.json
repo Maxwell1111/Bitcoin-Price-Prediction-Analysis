@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-12-23T23:15:02.526106",
+  "latest_sentiment": {
+    "value": 24,
+    "classification": "Extreme Fear",
+    "date": "2025-12-23"
+  },
+  "correlation_summary": {
+    "1d": 0.2617539435040483,
+    "3d": 0.4367041586943892,
+    "7d": 0.4858026975734454
+  },
+  "trades": []
+}
